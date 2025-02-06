@@ -29,7 +29,7 @@ The **pessimistic proof** mechanism ensures that any withdrawal claims made to t
 
 ## Unified bridge
 
-The **unified bridge** is responsible for maintaining the data structures related to chain states, cross-chain transactions, and the Agglayer’s Global Exit Root, ensuring cross-chain transactions are indeed finalized on the L1 before they can be claimed  
+The **unified bridge** is responsible for maintaining the data structures related to chain states, cross-chain transactions, and the Agglayer’s Global Exit Root, ensuring cross-chain transactions are indeed finalized on the L1 before they can be claimed.  
 
 ### Key functions:
 - **Cross-chain asset transfers**: Allows users to bridge assets between different chains.
