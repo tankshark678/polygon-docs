@@ -16,7 +16,7 @@ The **Agglayer Node** is a Rust-based service responsible for processing and ver
 ### Key functions:
 - **Zero-knowledge proof verification**: The node receives and verifies cryptographic proofs from connected chains before sending them to L1.
 - **Certificate management**: Handles certificates that attest to the state transitions of connected chains.
-- **Orchestration of epochs**: Manages state updates in a structured manner through epochs.
+- **Orchestration of epochs**: Manages state updates in a structured manner through epochs
 
 ## Pessimistic proof
 
